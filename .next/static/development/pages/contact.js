@@ -63,7 +63,7 @@ var ContactPage = function ContactPage() {
 
 /***/ }),
 
-/***/ 1:
+/***/ 5:
 /*!**************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fcontact&absolutePagePath=%2FUsers%2Fsimon%2FDesktop%2Fwebdev%2Fnextjs-practice%2Fpages%2Fcontact.js ***!
   \**************************************************************************************************************************************************/
@@ -86,5 +86,5 @@ module.exports = dll_5f137288facb1107b491;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[5,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=contact.js.map

@@ -1,6 +1,8 @@
+import Link from 'next/link';
+
 const Index = () => (
   <div>
-    <h1>Our index page</h1>
+    <h1>HomePage</h1>
   </div>
 );
 
